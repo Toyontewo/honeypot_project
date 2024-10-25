@@ -11,7 +11,7 @@ There is rapid advancement in cybersecurity threats, organizations are actively 
 
 ### Key Features
 
-- **Honeypot Deployment**: The [Cowrie honeypot](all_files/files/Cowrie_doc.docx) simulated an SSH environment, recording various attacker attempts.
+- **Honeypot Deployment**: The [Cowrie honeypot](all_files/files/cowrie_doc2/Cowrie_doc.html) simulated an SSH environment, recording various attacker attempts.
 - **Data Collection**: [Logs](all_files/files/cowrie_log.csv) from the honeypot included timestamps, IP addresses, login attempts, and success/failure statuses.
 - **Data Analysis**: Using Python and Pandas, we performed in-depth analysis, extracting insights on attacker trends, including geographic origin, common usernames, passwords, and IP addresses used in brute-force attacks.
 
