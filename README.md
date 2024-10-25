@@ -12,12 +12,12 @@ There is rapid advancement in cybersecurity threats, organizations are actively 
 ### Key Features
 
 - **Honeypot Deployment**: The Cowrie honeypot simulated an SSH environment, recording various attacker attempts.
-- **Data Collection**: Logs from the honeypot included timestamps, IP addresses, login attempts, and success/failure statuses.
+- **Data Collection**: [Logs](all_files/files/cowrie_log.csv) from the honeypot included timestamps, IP addresses, login attempts, and success/failure statuses.
 - **Data Analysis**: Using Python and Pandas, we performed in-depth analysis, extracting insights on attacker trends, including geographic origin, common usernames, passwords, and IP addresses used in brute-force attacks.
 
 ## Project Structure
 
-- **/logs**: Directory for storing raw honeypot logs.
+- **/logs**: Directory for storing raw [honeypot logs](all_files/files/cowrie_log.csv).
 - **/analysis**: Python scripts and Jupyter notebooks used for data cleaning, analysis, and visualization.
 - **/docs**: Documentation on the Cowrie honeypot setup, cloud deployment, and analysis approach.
 
