@@ -34,8 +34,8 @@ There is rapid advancement in cybersecurity threats, organizations are actively 
 1. **Geographical Analysis**: The majority of attacks originated from countries X, Y, and Z. Using [Python](all_files/files/geo_piee.py)
    <img src="all_files/images/geo.jpg" alt="Honeypot" width="680" height="500"/>
 2. **IP Frequency**: Specific IPs showed repeated login attempts, indicating potentially automated attacks.
-   <img src="all_files/images/ip_bar.jpg" alt="Honeypot" width="680" height="500"/>
-   <img src="all_files/images/Figure_1.png" alt="Honeypot" width="680" height="500"/>
+   <img src="all_files/images/ip_bar.jpg" alt="Honeypot" width="700" height="500"/>
+   <img src="all_files/images/Figure_1.png" alt="Honeypot" width="700" height="500"/>
 4. **Username and Password Trends**: Common usernames like 'root' and 'admin' were frequently targeted, often paired with weak passwords.
    <br>
    <img src="all_files/images/Screenshot 2024-10-25 at 9.34.30 PM.png" alt="Honeypot" width="700" height="500"/>
