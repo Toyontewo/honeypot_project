@@ -1,4 +1,4 @@
-# Honeypot Analysis Project <img src="all_files/images/honeypot.png" alt="Honeypot" width="50" height="50"/>
+# <img src="all_files/images/honeypot.png" alt="Honeypot" width="50" height="50"/>  Honeypot Analysis Project
 
 
 
