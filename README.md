@@ -17,9 +17,9 @@ There is rapid advancement in cybersecurity threats, organizations are actively 
 
 ## Project Structure
 
-- **/logs**: Directory for storing raw [honeypot logs](all_files/files/cowrie_log.csv).
+- **/logs**: Directory for storing raw honeypot logs.
 - **/analysis**: Python scripts and Jupyter notebooks used for data cleaning, analysis, and visualization.
-- **/docs**: Documentation on the Cowrie honeypot setup, cloud deployment, and analysis approach.
+- **/docs**: Documentation on the [Cowrie honeypot setup](all_files/files/cowrie_log.csv), cloud deployment, and analysis approach.
 
 ## Technologies Used
 
