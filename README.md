@@ -35,7 +35,7 @@ There is rapid advancement in cybersecurity threats, organizations are actively 
    <img src="all_files/images/ip_bar.jpg" alt="Honeypot" width="700" height="500"/>
    <img src="all_files/images/Figure_1.png" alt="Honeypot" width="700" height="500"/>
 4. **Username and Password Trends**: Common usernames like 'root' and 'admin' were frequently targeted, often paired with weak passwords.
-   <img src="all_files/images/honeypot.png" alt="Honeypot" width="30" height="30"/>
+   <img src="all_files/images/Screenshot 2024-10-25 at 9.34.30 PM.png" alt="Honeypot" width="700" height="500"/>
 
 ## Setup Instructions
 
