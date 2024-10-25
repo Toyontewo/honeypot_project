@@ -29,7 +29,7 @@ There is rapid advancement in cybersecurity threats, organizations are actively 
 
 ## Data Analysis and Findings
 
-1. **Geographical Analysis**: The majority of attacks originated from countries X, Y, and Z.
+1. **Geographical Analysis**: The majority of attacks originated from countries X, Y, and Z. Using [Python](all_files/files/geo_piee.py)
    <img src="all_files/images/geo.jpg" alt="Honeypot" width="700" height="500"/>
 2. **IP Frequency**: Specific IPs showed repeated login attempts, indicating potentially automated attacks.
    <img src="all_files/images/ip_bar.jpg" alt="Honeypot" width="700" height="500"/>
