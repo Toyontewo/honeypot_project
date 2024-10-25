@@ -11,7 +11,7 @@ There is rapid advancement in cybersecurity threats, organizations are actively 
 
 ### Key Features
 
-- **Honeypot Deployment**: The Cowrie honeypot simulated an SSH environment, recording various attacker attempts.
+- **Honeypot Deployment**: The [Cowrie honeypot](all_files/files/Cowrie doc.docx) simulated an SSH environment, recording various attacker attempts.
 - **Data Collection**: [Logs](all_files/files/cowrie_log.csv) from the honeypot included timestamps, IP addresses, login attempts, and success/failure statuses.
 - **Data Analysis**: Using Python and Pandas, we performed in-depth analysis, extracting insights on attacker trends, including geographic origin, common usernames, passwords, and IP addresses used in brute-force attacks.
 
@@ -35,6 +35,7 @@ There is rapid advancement in cybersecurity threats, organizations are actively 
    <img src="all_files/images/ip_bar.jpg" alt="Honeypot" width="700" height="500"/>
    <img src="all_files/images/Figure_1.png" alt="Honeypot" width="700" height="500"/>
 4. **Username and Password Trends**: Common usernames like 'root' and 'admin' were frequently targeted, often paired with weak passwords.
+   <br>
    <img src="all_files/images/Screenshot 2024-10-25 at 9.34.30 PM.png" alt="Honeypot" width="700" height="500"/>
 
 ## Setup Instructions
