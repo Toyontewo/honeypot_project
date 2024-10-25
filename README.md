@@ -19,7 +19,7 @@ There is rapid advancement in cybersecurity threats, organizations are actively 
 
 - **/logs**: Directory for storing raw honeypot logs.
 - **/analysis**: Python scripts and Jupyter notebooks used for data cleaning, analysis, and visualization.
-- **/docs**: Documentation on the [Cowrie honeypot setup](all_files/files/cowrie_doc2/cowrie_doc.md), cloud deployment, and analysis approach.
+- **/docs**: Documentation on the [Cowrie honeypot setup](https://docs.google.com/document/d/1I4xrF-5Ahn0B2d3-KERN1xMbh3BVx21xKF9nCa_1wX0/edit?usp=sharing), cloud deployment, and analysis approach.
 
 ## Technologies Used
 
