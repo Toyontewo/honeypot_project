@@ -1,10 +1,10 @@
-# Honeypot Cybersecurity Analysis Project
+# Honeypot Analysis Project
 
-This repository contains our final year project on **Cyber-Attack Detection and Analysis using a Honeypot System**. Developed by [Your Name] and [Partner's Name], this project implements a cloud-based honeypot system designed to capture and analyze attacker behaviors.
+This repository contains our final year project on **Cyber-Attack Detection and Analysis using a Honeypot System**. Developed by **Ntewo Toyo** and **Aloba Suad**, this project implements a cloud-based honeypot system designed to capture and analyze attacker behaviors like Attackers Geo-location, Most frequent IP Addresses, Most common username and password used and Success rate.
 
 ## Project Overview
 
-With the rapid advancement in cybersecurity threats, organizations are constantly seeking ways to anticipate and counteract malicious activities. This project aimed to deploy a honeypot using the Cowrie framework to capture potential cyber-attacks in a controlled environment and analyze the collected data using Python and Pandas. Though we initially used a Linode server for hosting the Cowrie honeypot, our subscription expired, leading us to primarily focus on analyzing the attack logs.
+There is rapid advancement in cybersecurity threats, organizations are actively seeking ways to anticipate and counteract malicious activities. This project aimed to deploy a honeypot using the Cowrie framework to capture potential cyber-attacks in a controlled environment and analyze the collected data using Python and Pandas. Though we initially used a Linode server for hosting the Cowrie honeypot, our subscription expired, leading us to primarily focus on analyzing the attack logs.
 
 ### Key Features
 
@@ -65,5 +65,5 @@ Potential improvements include deploying additional honeypots to capture a wider
 
 ## Contributors
 
-- [Ntewo Toyo] - [LinkedIn/GitHub profile]
+- [Ntewo Toyo] - [https://www.linkedin.com/in/toyontewo123/]
 - [Aloba Suad] - [LinkedIn/GitHub profile]
