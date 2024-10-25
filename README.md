@@ -7,7 +7,7 @@ This repository contains our final year project on **Cyber-Attack Detection and 
 ## Project Overview
 
 There is rapid advancement in cybersecurity threats, organizations are actively seeking ways to anticipate and counteract malicious activities. This project aimed to deploy a honeypot using the Cowrie framework to capture potential cyber-attacks in a controlled environment and analyze the collected data using Python and Pandas. Though we initially used a Linode server for hosting the Cowrie honeypot, our subscription expired, leading us to primarily focus on analyzing the attack logs.
-[project presentation](all_files/files/Presentation1.pptx)
+[Project presentation Slides](all_files/files/Presentation1.pdf)
 
 ### Key Features
 
