@@ -1,5 +1,5 @@
-# Honeypot Analysis Project
-<img src="all_files/images/honeypot.png" alt="Honeypot" width="100" height="100"/>
+# Honeypot Analysis Project <img src="all_files/images/honeypot.png" alt="Honeypot" width="100" height="100"/>
+
 
 
 This repository contains our final year project on **Cyber-Attack Detection and Analysis using a Honeypot System**. Developed by **Ntewo Toyo** and **Aloba Suad**, this project implements a cloud-based honeypot system designed to capture and analyze attacker behaviors like Attackers Geo-location, Most frequent IP Addresses, Most common username and password used and Success rate.
