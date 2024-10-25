@@ -1,6 +1,6 @@
 # Honeypot Analysis Project
 
-![Alt text describing the image]([HONEYPOT GIT/pngwing.com (1).png](https://github.com/Toyontewo/honeypot_project/blob/396c4bd259814c19023599ea029ff8e7924bd93c/HONEYPOT%20GIT/pngwing.com%20(1).png))
+![Alt text describing the image](all_files/images/honeypot.png)
 
 This repository contains our final year project on **Cyber-Attack Detection and Analysis using a Honeypot System**. Developed by **Ntewo Toyo** and **Aloba Suad**, this project implements a cloud-based honeypot system designed to capture and analyze attacker behaviors like Attackers Geo-location, Most frequent IP Addresses, Most common username and password used and Success rate.
 
