@@ -30,8 +30,12 @@ There is rapid advancement in cybersecurity threats, organizations are actively 
 ## Data Analysis and Findings
 
 1. **Geographical Analysis**: The majority of attacks originated from countries X, Y, and Z.
+   <img src="all_files/images/geo.jpg" alt="Honeypot" width="100" height="100"/>
 2. **IP Frequency**: Specific IPs showed repeated login attempts, indicating potentially automated attacks.
-3. **Username and Password Trends**: Common usernames like 'root' and 'admin' were frequently targeted, often paired with weak passwords.
+   <img src="all_files/images/ip_bar.jpg" alt="Honeypot" width="100" height="100"/>
+   <img src="all_files/images/Figure_1.png" alt="Honeypot" width="100" height="100"/>
+4. **Username and Password Trends**: Common usernames like 'root' and 'admin' were frequently targeted, often paired with weak passwords.
+   <img src="all_files/images/honeypot.png" alt="Honeypot" width="30" height="30"/>
 
 ## Setup Instructions
 
