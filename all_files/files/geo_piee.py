@@ -25,7 +25,7 @@ def analyze_csv(csv_file):
         percentage = (count / total_countries) * 100
         print(f"{country}: {percentage:.2f}%")
 
-    # Create a pie chart
+    # Pie chart
     labels = [country for country, _ in most_common_countries]
     sizes = [count for _, count in most_common_countries]
 
@@ -36,5 +36,4 @@ def analyze_csv(csv_file):
     plt.show()
 
 
-# Replace 'data.csv' with the path to your CSV file
 analyze_csv('merged_csv.csv')
