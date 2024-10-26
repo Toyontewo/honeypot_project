@@ -76,4 +76,4 @@ Potential improvements include deploying additional honeypots to capture a wider
 ## Contributors [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com)
 
 - [Ntewo Toyo](https://www.linkedin.com/in/toyontewo123/)
-- [Aloba Suad](LinkedIn/GitHub profile)
+- [Aloba Suad]
